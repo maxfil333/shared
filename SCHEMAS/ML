@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T13:42:53.731Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="cDdIYAsJahyhjcE-dZ8R" version="22.1.20" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T15:16:04.964Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="z4Kh3hwnpBzGBm7HZeSD" version="22.1.20" type="github">
   <diagram name="Страница — 1" id="la5cO36zwQWxTpJ-C7PE">
-    <mxGraphModel dx="1449" dy="2129" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2449" dy="1514" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="-145.5" y="-157" width="323" height="285" as="geometry" />
         </mxCell>
         <mxCell id="jAn2KmhTPxv43Cljfc9A-11" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-341" y="82" width="792" height="540" as="geometry" />
+          <mxGeometry x="-373" y="38" width="792" height="540" as="geometry" />
         </mxCell>
         <mxCell id="jAn2KmhTPxv43Cljfc9A-2" value="&lt;h1&gt;Скалярное произведение векторов&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;U (u1, u2) - вектор 1&lt;/p&gt;&lt;p&gt;V (v1, v2) - вектор 2&lt;/p&gt;&lt;p&gt;U * V = u1*v1 + u2*v2&lt;/p&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Применяя этот метод, надо помнить о&amp;nbsp;том, что&amp;nbsp;скалярное произведение очень сильно зависит от&amp;nbsp;длины векторов. Оно применимо только для&amp;nbsp;сравнения схожести векторов, имеющих одинаковую длину.&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Чем оно больше, тем больше похожи вектора.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="jAn2KmhTPxv43Cljfc9A-11">
           <mxGeometry x="17" y="88" width="190" height="436" as="geometry" />
@@ -16,11 +16,11 @@
         <mxCell id="jAn2KmhTPxv43Cljfc9A-3" value="&lt;h1&gt;Косинусный коэффициент&lt;br&gt;векторов&lt;/h1&gt;&lt;p&gt;S = U * V / ( ||U|| * ||V||) ,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;где:&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp;U * V - скалярное произведение векторов&lt;br&gt;&amp;nbsp;||U|| - длина вектора U = sqrt(u1**2 + u2**2)&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Вычисляют, находя косинус угла между двумя векторами. Чем этот коэффициент больше&amp;nbsp;— тем сильнее векторы похожи друг на&amp;nbsp;друга. Формула для&amp;nbsp;вычисления этого коэффициента предусматривает вычисление скалярного произведения векторов, которое делят на&amp;nbsp;произведение длин векторов.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Это дополнение формулы скалярного произведения, нормализующее результаты, позволяет эффективно измерять схожесть векторов, учитывая их направления и не&amp;nbsp;обращая внимания на&amp;nbsp;их длины.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;При работе с единичными векторами, их скалярное произведение и косинусный коэффициент дают в точности одинаковые результаты.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="jAn2KmhTPxv43Cljfc9A-11">
           <mxGeometry x="217" y="88" width="280" height="411" as="geometry" />
         </mxCell>
-        <mxCell id="jAn2KmhTPxv43Cljfc9A-8" value="&lt;h1&gt;Евклидово расстояние&lt;/h1&gt;&lt;p&gt;Чем меньше евклидово расстояние между двумя векторами, тем они более похожи.&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;U (u1, u2) - вектор 1&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;V (v1, v2) - вектор 2&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;d(U, V) = sqrt ( (u1 - v1)^2 + (u2 - v2)^2 )&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="jAn2KmhTPxv43Cljfc9A-11">
-          <mxGeometry x="506" y="88" width="286" height="361" as="geometry" />
+        <mxCell id="jAn2KmhTPxv43Cljfc9A-8" value="&lt;h1&gt;Евклидово расстояние&lt;/h1&gt;&lt;p&gt;Чем меньше евклидово расстояние между двумя векторами, тем они более похожи.&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;U (u1, u2) - вектор 1&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;V (v1, v2) - вектор 2&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;d(U, V) = sqrt ( (u1 - v1)^2 + (u2 - v2)^2 )&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: justify; border-color: var(--border-color);&quot;&gt;В&amp;nbsp;отличие от&amp;nbsp;косинусного коэффициента, при&amp;nbsp;вычислении евклидового расстояния во&amp;nbsp;внимание принимаются длина и направление векторов.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="jAn2KmhTPxv43Cljfc9A-11">
+          <mxGeometry x="506" y="88" width="259" height="361" as="geometry" />
         </mxCell>
         <mxCell id="jAn2KmhTPxv43Cljfc9A-10" value="" style="swimlane;startSize=0;" vertex="1" parent="jAn2KmhTPxv43Cljfc9A-11">
-          <mxGeometry width="776" height="540" as="geometry" />
+          <mxGeometry y="80" width="776" height="424" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
