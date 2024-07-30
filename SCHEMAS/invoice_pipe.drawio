@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="Страница — 1" id="HlB4CG9gVXyliM_NJqTG">
-    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -194,7 +194,9 @@
           <mxGeometry x="1265" y="505" width="139" height="110" as="geometry" />
         </mxCell>
         <mxCell id="oIUQPOYSs91d0OZM0uvB-46" value="&lt;font face=&quot;Helvetica&quot;&gt;CHECK&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;startSize=33;labelBackgroundColor=none;rounded=0;fillColor=#F0CF97;strokeColor=#BD7000;fontColor=#000000;swimlaneLine=1;glass=0;strokeWidth=5;" parent="1" vertex="1">
-          <mxGeometry x="803" y="637" width="344" height="287" as="geometry" />
+          <mxGeometry x="803" y="637" width="344" height="287" as="geometry">
+            <mxRectangle x="803" y="637" width="80" height="33" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="xGjEa5EkogUjSMjEHngw-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="oIUQPOYSs91d0OZM0uvB-46" vertex="1">
           <mxGeometry x="8" y="40" width="179" height="240" as="geometry" />
