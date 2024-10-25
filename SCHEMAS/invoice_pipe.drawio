@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.2">
   <diagram name="Страница — 1" id="HlB4CG9gVXyliM_NJqTG">
-    <mxGraphModel dx="1799" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3597" dy="1960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -672,7 +672,7 @@
           <mxGeometry width="74" height="61.73" as="geometry" />
         </mxCell>
         <mxCell id="OwjyIO9F-N5JSFD96GwF-43" value="main_openai.py&lt;br&gt;local_postprocessing&lt;br&gt;for услуга in json[&#39;Услуги&#39;]:&lt;div&gt;name = услуга[&#39;Наименование&#39;]&lt;/div&gt;&lt;div&gt;query = name&lt;/div&gt;&lt;div&gt;n_context_strings = retriever.invoke(query)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;без доп. подачи в языковую модель:&lt;/div&gt;&lt;div&gt;id = n_context_strings[0]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;с доп. подачей в я.м.:&lt;/div&gt;&lt;div&gt;prompt = ... n_context_strings ...&lt;/div&gt;&lt;div&gt;id = openai ... (prompt)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;id &amp;gt; commet &amp;gt; service &amp;gt; в json&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2540" y="480" width="250" height="265" as="geometry" />
+          <mxGeometry x="1690" y="890.0699999999999" width="250" height="265" as="geometry" />
         </mxCell>
         <mxCell id="zqprP7J2qiYO604ps4b4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
