@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Страница — 1" id="HlB4CG9gVXyliM_NJqTG">
-    <mxGraphModel dx="1259" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1799" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -798,7 +798,7 @@
         <mxCell id="_iEiLci2Rl5TQZEvVT9k-32" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;" parent="1" vertex="1">
           <mxGeometry x="1164" y="351" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JARfmao9t6RdkKcYSDJk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#FF3333;flowAnimation=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_iEiLci2Rl5TQZEvVT9k-32" target="JARfmao9t6RdkKcYSDJk-12">
+        <mxCell id="JARfmao9t6RdkKcYSDJk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#FF3333;flowAnimation=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="_iEiLci2Rl5TQZEvVT9k-32" target="JARfmao9t6RdkKcYSDJk-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1279" y="349" as="targetPoint" />
             <Array as="points">
@@ -808,12 +808,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JARfmao9t6RdkKcYSDJk-9" value="&lt;font style=&quot;font-size: 7px;&quot; color=&quot;#ff3333&quot;&gt;text&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot; color=&quot;#ff3333&quot;&gt;&amp;nbsp;from&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot; color=&quot;#ff3333&quot;&gt;image&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="JARfmao9t6RdkKcYSDJk-5">
+        <mxCell id="JARfmao9t6RdkKcYSDJk-9" value="&lt;font style=&quot;font-size: 7px;&quot; color=&quot;#ff3333&quot;&gt;text&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot; color=&quot;#ff3333&quot;&gt;&amp;nbsp;from&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot; color=&quot;#ff3333&quot;&gt;image&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="JARfmao9t6RdkKcYSDJk-5" vertex="1" connectable="0">
           <mxGeometry x="-0.2007" y="1" relative="1" as="geometry">
             <mxPoint x="-5" y="-63" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JARfmao9t6RdkKcYSDJk-14" value="&lt;font style=&quot;font-size: 6px;&quot; color=&quot;#ff3333&quot;&gt;main_local_files&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;" vertex="1" connectable="0" parent="JARfmao9t6RdkKcYSDJk-5">
+        <mxCell id="JARfmao9t6RdkKcYSDJk-14" value="&lt;font style=&quot;font-size: 6px;&quot; color=&quot;#ff3333&quot;&gt;main_local_files&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;" parent="JARfmao9t6RdkKcYSDJk-5" vertex="1" connectable="0">
           <mxGeometry x="-0.1884" y="-1" relative="1" as="geometry">
             <mxPoint x="-31" y="14" as="offset" />
           </mxGeometry>
@@ -1257,7 +1257,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JARfmao9t6RdkKcYSDJk-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.375;exitY=1;exitDx=0;exitDy=0;strokeColor=#6666FF;entryX=0.5;entryY=0;entryDx=0;entryDy=0;flowAnimation=1;" edge="1" parent="1" source="oIUQPOYSs91d0OZM0uvB-42" target="JARfmao9t6RdkKcYSDJk-12">
+        <mxCell id="JARfmao9t6RdkKcYSDJk-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.375;exitY=1;exitDx=0;exitDy=0;strokeColor=#6666FF;entryX=0.5;entryY=0;entryDx=0;entryDy=0;flowAnimation=1;" parent="1" source="oIUQPOYSs91d0OZM0uvB-42" target="JARfmao9t6RdkKcYSDJk-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1279" y="311" as="targetPoint" />
             <Array as="points">
@@ -1266,7 +1266,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JARfmao9t6RdkKcYSDJk-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="NxduIcwkPWzc9iYzgi3f-1">
+        <mxCell id="JARfmao9t6RdkKcYSDJk-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="NxduIcwkPWzc9iYzgi3f-1" edge="1" source="JARfmao9t6RdkKcYSDJk-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1298" y="330" as="sourcePoint" />
             <mxPoint x="1310" y="340" as="targetPoint" />
@@ -1275,12 +1275,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JARfmao9t6RdkKcYSDJk-10" value="&lt;font style=&quot;font-size: 7px;&quot; color=&quot;#6666ff&quot;&gt;text&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot; color=&quot;#6666ff&quot;&gt;from&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;&lt;font color=&quot;#6666ff&quot;&gt;pdf&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
+        <mxCell id="JARfmao9t6RdkKcYSDJk-10" value="&lt;font style=&quot;font-size: 7px;&quot; color=&quot;#6666ff&quot;&gt;text&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot; color=&quot;#6666ff&quot;&gt;from&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;&lt;font color=&quot;#6666ff&quot;&gt;pdf&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1259.9966666666667" y="210" as="geometry">
             <mxPoint x="-5" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JARfmao9t6RdkKcYSDJk-12" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;current&lt;/font&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;text&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;gradientColor=#FF3333;fillColor=#6666FF;" vertex="1" parent="1">
+        <mxCell id="JARfmao9t6RdkKcYSDJk-12" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;current&lt;/font&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;text&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;gradientColor=#FF3333;fillColor=#6666FF;" parent="1" vertex="1">
           <mxGeometry x="1260" y="228.5" width="39" height="39" as="geometry" />
         </mxCell>
       </root>
